@@ -1,0 +1,126 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\annet\\StudentManager\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1ED7D160-8169-4607-AAB0-CDCD12629138}|Scheduler\\Scheduler.csproj|c:\\users\\annet\\studentmanager\\scheduler\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1ED7D160-8169-4607-AAB0-CDCD12629138}|Scheduler\\Scheduler.csproj|solutionrelative:scheduler\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1ED7D160-8169-4607-AAB0-CDCD12629138}|Scheduler\\Scheduler.csproj|c:\\users\\annet\\studentmanager\\scheduler\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1ED7D160-8169-4607-AAB0-CDCD12629138}|Scheduler\\Scheduler.csproj|solutionrelative:scheduler\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1ED7D160-8169-4607-AAB0-CDCD12629138}|Scheduler\\Scheduler.csproj|c:\\users\\annet\\studentmanager\\scheduler\\worker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1ED7D160-8169-4607-AAB0-CDCD12629138}|Scheduler\\Scheduler.csproj|solutionrelative:scheduler\\worker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1ED7D160-8169-4607-AAB0-CDCD12629138}|Scheduler\\Scheduler.csproj|c:\\users\\annet\\studentmanager\\scheduler\\schedulersettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1ED7D160-8169-4607-AAB0-CDCD12629138}|Scheduler\\Scheduler.csproj|solutionrelative:scheduler\\schedulersettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D12EC702-1392-403A-AFC5-962C198A1850}|C:\\Users\\annet\\StudentManager{114A0E21-A111-44BC-87AD-AB7E1C4ADD0D}|C:\\Users\\annet\\StudentManager\\global.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D12EC702-1392-403A-AFC5-962C198A1850}|C:\\Users\\annet\\StudentManager{114A0E21-A111-44BC-87AD-AB7E1C4ADD0D}|solutionrelative:global.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1ED7D160-8169-4607-AAB0-CDCD12629138}|Scheduler\\Scheduler.csproj|c:\\users\\annet\\studentmanager\\scheduler\\scheduler.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{1ED7D160-8169-4607-AAB0-CDCD12629138}|Scheduler\\Scheduler.csproj|solutionrelative:scheduler\\scheduler.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SchedulerSettings.cs",
+              "DocumentMoniker": "C:\\Users\\annet\\StudentManager\\Scheduler\\SchedulerSettings.cs",
+              "RelativeDocumentMoniker": "Scheduler\\SchedulerSettings.cs",
+              "ToolTip": "C:\\Users\\annet\\StudentManager\\Scheduler\\SchedulerSettings.cs",
+              "RelativeToolTip": "Scheduler\\SchedulerSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-11T11:47:00.19Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "global.json",
+              "DocumentMoniker": "C:\\Users\\annet\\StudentManager\\global.json",
+              "RelativeDocumentMoniker": "global.json",
+              "ToolTip": "C:\\Users\\annet\\StudentManager\\global.json",
+              "RelativeToolTip": "global.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-11-11T11:40:20.015Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Scheduler",
+              "DocumentMoniker": "C:\\Users\\annet\\StudentManager\\Scheduler\\Scheduler.csproj",
+              "RelativeDocumentMoniker": "Scheduler\\Scheduler.csproj",
+              "ToolTip": "C:\\Users\\annet\\StudentManager\\Scheduler\\Scheduler.csproj",
+              "RelativeToolTip": "Scheduler\\Scheduler.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-11-11T11:38:48.972Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\annet\\StudentManager\\Scheduler\\appsettings.json",
+              "RelativeDocumentMoniker": "Scheduler\\appsettings.json",
+              "ToolTip": "C:\\Users\\annet\\StudentManager\\Scheduler\\appsettings.json",
+              "RelativeToolTip": "Scheduler\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-11-11T11:38:27.262Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Worker.cs",
+              "DocumentMoniker": "C:\\Users\\annet\\StudentManager\\Scheduler\\Worker.cs",
+              "RelativeDocumentMoniker": "Scheduler\\Worker.cs",
+              "ToolTip": "C:\\Users\\annet\\StudentManager\\Scheduler\\Worker.cs",
+              "RelativeToolTip": "Scheduler\\Worker.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-11T11:37:57.21Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\annet\\StudentManager\\Scheduler\\Program.cs",
+              "RelativeDocumentMoniker": "Scheduler\\Program.cs",
+              "ToolTip": "C:\\Users\\annet\\StudentManager\\Scheduler\\Program.cs",
+              "RelativeToolTip": "Scheduler\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-11T11:37:27.744Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

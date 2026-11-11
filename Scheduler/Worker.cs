@@ -1,12 +1,16 @@
+using Microsoft.Extensions.Options;
+
 namespace Scheduler;
 
 public class Worker : BackgroundService
 {
     private readonly ILogger<Worker> _logger;
+    private readonly SchedulerSettings _settings;
 
-    public Worker(ILogger<Worker> logger)
+    public Worker(ILogger<Worker> logger, IOptions<SchedulerSettings> settings)
     {
         _logger = logger;
+        _settings = settings.Value;
     }
 
     protected override async Task ExecuteAsync(CancellationToken stoppingToken)
@@ -18,7 +22,7 @@ public class Worker : BackgroundService
                 _logger.LogInformation("Worker running at: {time}", DateTimeOffset.Now);
             }
 
-            await Task.Delay(1000, stoppingToken);
+            await Task.Delay(_settings.Interval, stoppingToken);
         }
     }
 }
