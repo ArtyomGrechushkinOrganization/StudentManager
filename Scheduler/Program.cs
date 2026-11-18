@@ -9,6 +9,7 @@ public class Program
         var builder = Host.CreateApplicationBuilder(args);
         
         builder.Services.AddHostedService<JobScheduler>();
+        builder.Services.AddHttpClient();
         builder.Services.AddJob<DefaultTimerJob, DefaultTimerOptions>(builder.Configuration);
         builder.Services.AddJob<LessonPlannerJob, SchedulerSettings>(builder.Configuration);
 
