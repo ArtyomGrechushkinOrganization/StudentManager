@@ -48,7 +48,7 @@ namespace Scheduler.Jobs
                 //client.BaseAddress = new Uri(finalUrl);
                 var jsonSchedule = await client.GetFromJsonAsync<ScheduleDayList>(finalUrl);
                 
-                //logger.Log(LogLevel.Information, "Lesson: " +  jsonSchedule.Summary);
+                
             }
             else
             {
