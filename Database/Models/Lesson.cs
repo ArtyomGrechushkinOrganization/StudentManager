@@ -3,7 +3,7 @@ using System;
 using System.Collections.Generic;
 using System.Text;
 
-namespace Scheduler.Models
+namespace Database.Models
 {
     public class Lesson
     {
@@ -13,7 +13,8 @@ namespace Scheduler.Models
         public int? Price { get; set; }
         public ELessonStatus Status { get; set; }
         public DateTime CreatedAt { get; set; }
+        public DateTime StartedAt   { get; set; }
+        public DateTime EndAt { get; set; }
         public string? HtmlLink { get; set; }
-        public TimeSpan Duration { get; set; }
     }
 }
