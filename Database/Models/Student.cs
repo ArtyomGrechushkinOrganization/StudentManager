@@ -1,8 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
-
-namespace Database.Models
+﻿namespace Database.Models
 {
     public class Student
     {

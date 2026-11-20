@@ -1,7 +1,4 @@
-﻿using Scheduler.Enums;
-using System;
-using System.Collections.Generic;
-using System.Text;
+﻿using Database.Enums;
 
 namespace Database.Models
 {
